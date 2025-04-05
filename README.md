@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @RevanthRM
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🦋 I have worked in Python
+- 🧠 Interested in AIML
+- 🌱 I have worked on data pipeline of a SAAS product
 - 💞️ I’m looking to collaborate on Documentation
 
 <!---
